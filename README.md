@@ -64,3 +64,19 @@ Repository:
 
 GitHub:
 github.com/Kwamefrimpongc1
+
+## Project Screenshots
+
+### Azure User Automation Lab
+
+![Azure User Automation Lab](images/Screenshot%202026-06-03%20at%204.21.19%E2%80%AFPM.png)
+
+![PowerShell Automation](images/Screenshot%202026-06-03%20at%206.22.45%E2%80%AFPM.png)
+
+### Azure Ubuntu VM Lab
+
+![Azure VM Overview](images/Screenshot%202026-06-03%20at%206.30.53%E2%80%AFPM.png)
+
+![SSH Session](images/Screenshot%202026-06-03%20at%207.33.51%E2%80%AFPM.png)
+
+![Custom Website](images/Screenshot%202026-06-03%20at%208.12.40%E2%80%AFPM.png)
